@@ -2,9 +2,7 @@
 模仿拼音输入法的交互体验，仅支持 Windows 10 / 11
 使用了AI工具并经人工调试
 
-<img width="923" height="214" alt="Desktop 2026 11 06 - 16 15 37 01 - frame at 0m2s" src="https://github.com/user-attachments/assets/f3ba8d58-c9e7-4f18-9eb9-a31aa1c9b872" />
-
-##  核心特性
+<img width="923" height="86" alt="Desktop 2026 11 06 - 16 15 37 01 - frame at 0m2s" src="https://github.com/user-attachments/assets/317e538b-a3ca-4de1-8165-133df1202f51" />
 
 - **丝滑补全**：输入字母即刻弹出候选框，支持 `Tab`、`Enter`、`空格` 或数字键快速上屏。
 - **现代UI**：提供 6 种候选框皮肤（Win11、Mac、暗黑、极简等），支持自适应屏幕边缘防溢出。
@@ -14,7 +12,7 @@
 - **隐私安全**：纯离线运行，不收集任何数据；自动在密码框/敏感输入框禁用。
 - **可定制**：支持自定义词库导入导出、触发延迟、最大候选词数量。
 
-<img width="662" height="732" alt="屏幕截图 2026-11-06 161827" src="https://github.com/user-attachments/assets/aceb9dd5-d4fb-4a09-ae44-59ffea64d4eb" />
+<img width="662" height="732" alt="屏幕截图 2026-11-06 162332" src="https://github.com/user-attachments/assets/dd32c45e-74d7-4587-9792-cfdee489d621" />
 
 ## 普通用户：如何使用？
 
