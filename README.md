@@ -1,8 +1,10 @@
-# EnglishAutoComplete
+<img width="923" height="214" alt="Desktop 2026 11 06 - 16 15 37 01 - frame at 0m2s" src="https://github.com/user-attachments/assets/2acbee94-411d-4c55-99ce-02a818a742d8" /># EnglishAutoComplete
 
 一款纯本地的 Windows 英文自动补全工具。A pure local Windows English auto-completion tool
 模仿拼音输入法的交互体验，仅支持 Windows 10 / 11
 使用了AI工具并经人工调试
+
+<img width="923" height="214" alt="Desktop 2026 11 06 - 16 15 37 01 - frame at 0m2s" src="https://github.com/user-attachments/assets/f3ba8d58-c9e7-4f18-9eb9-a31aa1c9b872" />
 
 ##  核心特性
 
@@ -13,6 +15,8 @@
 - **智能撤销**：上屏后如果不满意，按一下退格键即可瞬间恢复，继续选择。
 - **隐私安全**：纯离线运行，不收集任何数据；自动在密码框/敏感输入框禁用。
 - **可定制**：支持自定义词库导入导出、触发延迟、最大候选词数量。
+
+<img width="662" height="732" alt="屏幕截图 2026-11-06 161827" src="https://github.com/user-attachments/assets/aceb9dd5-d4fb-4a09-ae44-59ffea64d4eb" />
 
 ## 普通用户：如何使用？
 
