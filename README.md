@@ -1,5 +1,3 @@
-<img width="923" height="214" alt="Desktop 2026 11 06 - 16 15 37 01 - frame at 0m2s" src="https://github.com/user-attachments/assets/2acbee94-411d-4c55-99ce-02a818a742d8" /># EnglishAutoComplete
-
 一款纯本地的 Windows 英文自动补全工具。A pure local Windows English auto-completion tool
 模仿拼音输入法的交互体验，仅支持 Windows 10 / 11
 使用了AI工具并经人工调试
@@ -23,6 +21,7 @@
 1. 点击本页面右侧的 **[Releases](https://github.com/2023829782/EnglishAutoComplete/releases)** 
 2. 下载最新版本的 `EnglishAutoComplete.zip` 压缩包。
 3. 解压到任意文件夹，**双击 `EnglishAutoComplete.exe` 即可运行**。
+4. 词库可选择
 
 >  **重要提示**：使用了全局键盘监听，部分杀毒软件可能会误报
 
